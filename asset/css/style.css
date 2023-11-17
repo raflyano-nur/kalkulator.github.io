@@ -1,0 +1,16 @@
+/* Tambahkan CSS kustom di sini */
+.calculator {
+  max-width: 400px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn {
+  font-size: 1.5rem;
+}
+
+#display {
+  font-size: 1.8rem;
+  text-align: right;
+  margin-bottom: 10px;
+}
